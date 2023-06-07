@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="SimpleGwt">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='it.unibo.sweng.simplegwt.SimpleGwt' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/SimpleGwt/greet" class="it.unibo.sweng.simplegwt.server.GreetingServiceImpl" />
+
+</module>

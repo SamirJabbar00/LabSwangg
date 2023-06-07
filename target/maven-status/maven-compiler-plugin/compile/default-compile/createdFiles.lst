@@ -1,0 +1,17 @@
+it/unibo/sweng/simplegwt/shared/FieldVerifier.class
+it/unibo/sweng/simplegwt/client/Messages.class
+it/unibo/sweng/simplegwt/shared/CardMagic.class
+it/unibo/sweng/simplegwt/server/DbUtente.class
+it/unibo/sweng/simplegwt/client/HomePage.class
+it/unibo/sweng/simplegwt/server/DbCard.class
+it/unibo/sweng/simplegwt/shared/Card.class
+it/unibo/sweng/simplegwt/client/GreetingServiceAsync$Util.class
+it/unibo/sweng/simplegwt/client/GreetingService.class
+it/unibo/sweng/simplegwt/server/GreetingServiceImpl.class
+it/unibo/sweng/simplegwt/shared/CardPokemon.class
+it/unibo/sweng/simplegwt/shared/CardYugi.class
+it/unibo/sweng/simplegwt/server/ListenerImpl.class
+it/unibo/sweng/simplegwt/client/SimpleGwt.class
+it/unibo/sweng/simplegwt/client/HomePage$HomePageUiBinder.class
+it/unibo/sweng/simplegwt/shared/Utente.class
+it/unibo/sweng/simplegwt/client/GreetingServiceAsync.class

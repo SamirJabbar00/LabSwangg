@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>greetServlet</servlet-name>
+    <servlet-class>it.unibo.sweng.simplegwt.server.GreetingServiceImpl</servlet-class>
+  </servlet>
+  
+
+  <servlet-mapping>
+    <servlet-name>greetServlet</servlet-name>
+    <url-pattern>/SimpleGwt/greet</url-pattern>
+  </servlet-mapping>
+  
+  
+  <listener>
+    <listener-class>it.unibo.sweng.simplegwt.server.ListenerImpl</listener-class>
+  </listener>
+
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>Home</welcome-file>
+  </welcome-file-list>
+
+</web-app>
